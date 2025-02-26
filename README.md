@@ -46,6 +46,44 @@
 
 Descrição detalhada da proposta, incluindo requisitos de software, protocolos, algoritmos, procedimentos, formatos de dados, etc.
 
+### 3.x. Avaliação e teste dos modelos de IA
+
+### Métricas de Desempenho
+
+- **Acurácia**: Proporção de todas as previsões corretas do modelo.
+- **Precisão**: Proporção de predições corretas em relação às predições positivas feitas pelo modelo.
+- **Recall (Sensibilidade)**: Proporção de positivos reais que foram corretamente identificados pelo modelo.
+- **AUC-ROC**: Métrica que avalia a capacidade do modelo em distinguir entre as classes positivas e negativas.
+
+### Matriz de Confusão
+
+A matriz de confusão para o Modelo x é apresentada a seguir:
+
+
+
+<div align="center">
+
+
+**----Exemplo matriz de confusão----**
+
+
+
+</div>
+
+
+Imagine que estamos tentando prever se vai chover em Joinville ou não.
+
+- **Verdadeiro Positivo (TP):** O modelo previu que ia chover, e realmente choveu.
+- **Falso Positivo (FP):** O modelo previu que ia chover, mas não choveu.
+- **Falso Negativo (FN):** O modelo previu que não ia chover, mas choveu.
+- **Verdadeiro Negativo (TN):** O modelo previu que não ia chover, e realmente não choveu.
+
+### 3.x. Conceitos de Overfitting e Underfitting
+
+- **Overfitting**: Ocorre quando o modelo se ajusta tão bem aos dados de treinamento que não generaliza bem para novos dados. O modelo "decora" os dados de treinamento, perdendo a capacidade de fazer predições precisas em dados desconhecidos.
+
+- **Underfitting**: Acontece quando o modelo é muito simples e não consegue capturar padrões nos dados. Ele não consegue nem mesmo representar bem os dados de treinamento, resultando em baixa performance tanto em treinamento quanto em teste.
+
 ### 3.1. Requisitos de Software
 - Apresentar os requisitos do tema proposto.
 - **Lista de Requisitos:** Apresentar uma lista contendo os Requisitos Funcionais (RF) e Não-Funcionais (RNF).
@@ -73,6 +111,7 @@ Descrição detalhada da proposta, incluindo requisitos de software, protocolos,
 - **Ferramentas de Desenvolvimento e Gestão de Projeto**:
     - Github projects; 
     - DrawIo (para criação de fluxogramas);
+    - Mermaid.js
 
 ### 3.4. Considerações de Segurança
 
@@ -89,9 +128,6 @@ Descrição dos passos seguintes após a conclusão do documento, com uma visão
 - [Dados Cancer Pulmão](http://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 - A definir
 
-## 6. Apêndices (Opcionais)
-
-Informações complementares, dados de suporte ou discussões detalhadas fora do corpo principal.
 ## 7. Avaliações de Professores
 
 Adicionar três páginas no final do RFC para que os Professores escolhidos possam fazer suas considerações e q
