@@ -19,9 +19,11 @@
 
 ## 1. Introdução
 
-&nbsp;&nbsp;&nbsp;&nbsp; O objetivo do presente trabalho é aplicar Inteligencia Artificial (IA) para auxiliar no tratamento/cura do cancer de mama. A ideia é aplicar conhecimentos de bioquimica estrutural em conjunto com oncologia e proteômica visando analisar combinações de proteinas e aminoacidos que possam ser capazes de curar o cancer de mama. Atualmente, esta sendo tomado como base o projeto desenvolvido pela AlphaFold. Para se ter noção até o ano de 2015, com pouco mais de 6 décadas de pesquisa haviam sido catalogadas entorno de 150 mil proteínas, utilizando de métodos convencionais para isso. Entretanto, no ano de 2020, com uso da IA desenvolvida pela AlphaFold fomos capazes de catalogar pouco mais de 200 milhões de proteinas em apenas um ano, o equivalente a praticamente todo o reino animal.
-
-&nbsp;&nbsp;&nbsp;&nbsp; Tendo isso em vista,
+&nbsp;&nbsp;&nbsp;&nbsp;O câncer de mama representa um dos maiores desafios na área de oncologia devido à sua alta incidência e complexidade biológica. Nesse contexto, a aplicação de ferramentas de Inteligência Artificial (IA) tem se mostrado promissora para o avanço na compreensão e no tratamento da doença. O presente trabalho propõe o uso de IA, em especial redes neurais artificiais com método K-Fold, para analisar combinações de proteínas e aminoácidos com potencial terapêutico na cura ou controle do câncer de mama. A iniciativa se apoia nos fundamentos de bioquímica estrutural, química orgânica e proteômica, áreas que permitem investigar em profundidade as estruturas, funções e reatividade química desses biomoléculas.
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;A base conceitual do projeto reside, em parte, nos resultados obtidos pela AlphaFold, que demonstrou o poder da IA na elucidação de estruturas proteicas. Até 2015, depois de mais de seis décadas de pesquisa, haviam sido catalogadas apenas cerca de 150 mil proteínas por métodos experimentais convencionais. Em 2020, graças aos avanços trazidos pela IA desenvolvida pela AlphaFold, foi possível catalogar mais de 200 milhões de proteínas, abrangendo quase todo o reino animal. Esses números evidenciam o potencial transformador das soluções computacionais na pesquisa biomédica.
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;Assim, a presente proposta busca integrar conhecimentos de oncologia, proteômica e nutrição clínica avançada para desenvolver modelos preditivos capazes de sugerir novas estratégias terapêuticas ou complementares ao tratamento do câncer de mama. A relevância e a originalidade do projeto residem em explorar as possibilidades abertas pela IA para acelerar a identificação de proteínas e aminoácidos promissores, contribuindo para o desenvolvimento de tratamentos personalizados e mais eficazes na área oncológica.
 
 ## 2. Descrição do Projeto
 
