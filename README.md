@@ -57,7 +57,7 @@ Descrição detalhada da proposta, incluindo requisitos de software, protocolos,
 
 ### Matriz de Confusão
 
-A matriz de confusão para o Modelo x é apresentada a seguir:
+Por exemplo, a matriz de confusão de um Modelo x é apresentada a seguir:
 
 
 
