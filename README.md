@@ -11,9 +11,7 @@
 
 # Resumo
 
-&nbsp;&nbsp;&nbsp;&nbsp; Até o ano de 2015, com mais de 6 décadas de pesquisa haviam sido catalogadas entorno de 150 mil proteínas, utilizando de métodos convencionais para isso. Até que, a AlphaFold entrou na jogada, visando utilizar inteligencia artificial para auxiliar na pesquisa e descoberta de demais estruturas de proteinas. Após 5 anos de trabalho, em 2020, com uso de IA a AlphaFold foi capaz de catalogar pouco mais de 200 milhões de proteinas, praticamente todo o reino animal.
-
-&nbsp;&nbsp;&nbsp;&nbsp; Tendo isso em vista, a proposta é utilizar IA para analisar combinações de proteinas e aminoacidos visando encontrar uma cura ou tratamento para o cancer de mama.
+&nbsp;&nbsp;&nbsp;&nbsp; O presente trabalho propõe o uso de ferramentas de Inteligência Artificial (IA), em especial redes neurais artificiais com método K-Fold, para analisar combinações de proteínas e aminoácidos que possam contribuir para o desenvolvimento de novas estratégias terapêuticas no tratamento do câncer de mama. Fundamentado em bioquímica estrutural, química orgânica, proteômica e oncologia, o projeto explora os recentes avanços no mapeamento das estruturas proteicas, como os proporcionados pela AlphaFold — que, em 2020, utilizando IA, foi capaz de auxiliar na catalogação de pouco mais de 200 milhões de proteínas - Praticamente todo o reino animal -, em contraste às cerca de 150 mil identificadas até 2015 após seis décadas de pesquisa por meio de métodos convencionais. Tendo isso em vista, espera-se utilizar IA para analisar combinações de proteínas, e assim, contribuir para um tratamento mais eficaz, ampliando as perspectivas terapêuticas no combate ao câncer de mama.
 
 <br>
 
