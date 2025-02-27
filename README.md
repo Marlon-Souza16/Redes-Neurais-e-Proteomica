@@ -125,7 +125,7 @@ Descrição dos passos seguintes após a conclusão do documento, com uma visão
 
 - [AlphaFold](https://www.youtube.com/watch?v=P_fHJIYENdI&t=1217s)
 - [Dados Treinamento](http://archive.ics.uci.edu/)
-- [Dados Cancer Pulmão](http://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
+- [Dados Cancer de mama](http://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 - A definir
 
 ## 7. Avaliações de Professores
