@@ -50,8 +50,8 @@ Descrição detalhada da proposta, incluindo requisitos de software, protocolos,
 
 ### Métricas de Desempenho
 
-- **Acurácia**: Proporção de todas as previsões corretas do modelo.
-- **Precisão**: Proporção de predições corretas em relação às predições positivas feitas pelo modelo.
+- **Acurácia**: Mede a proporção de todas as previsões corretas em relação ao total de previsões feitas pelo modelo. Ou seja, é a taxa de acertos globais, considerando tanto classes positivas quanto negativas.
+- **Precisão**: Mede a proporção de previsões corretas entre todas as previsões positivas feitas pelo modelo. Em outras palavras, é a quantidade de verdadeiros positivos em relação ao total de positivos preditos.
 - **Recall (Sensibilidade)**: Proporção de positivos reais que foram corretamente identificados pelo modelo.
 - **AUC-ROC**: Métrica que avalia a capacidade do modelo em distinguir entre as classes positivas e negativas.
 
