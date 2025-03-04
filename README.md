@@ -13,8 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; O presente trabalho propõe o uso de ferramentas de Inteligência Artificial (IA), em especial redes neurais artificiais com método K-Fold, para analisar combinações de proteínas e aminoácidos que possam contribuir para o desenvolvimento de novas estratégias terapêuticas no tratamento do câncer de mama. Fundamentado em bioquímica estrutural, química orgânica, proteômica e oncologia, o projeto explora os recentes avanços no mapeamento das estruturas proteicas, como os proporcionados pela AlphaFold — que, em 2020, utilizando IA, foi capaz de auxiliar na catalogação de pouco mais de 200 milhões de proteínas - Praticamente todo o reino animal -, em contraste às cerca de 150 mil identificadas até 2015 após seis décadas de pesquisa por meio de métodos convencionais. Tendo isso em vista, espera-se utilizar IA para analisar combinações de proteínas, e assim, contribuir para um tratamento mais eficaz, ampliando as perspectivas terapêuticas no combate ao câncer de mama.
 
-<br>
-
 ## 1. Introdução
 
 &nbsp;&nbsp;&nbsp;&nbsp;O câncer de mama representa um dos maiores desafios na área de oncologia devido à sua alta incidência e complexidade biológica. Nesse contexto, a aplicação de ferramentas de Inteligência Artificial (IA) tem se mostrado promissora para o avanço na compreensão e no tratamento da doença. O presente trabalho propõe o uso de IA, em especial redes neurais artificiais com método K-Fold, para analisar combinações de proteínas e aminoácidos com potencial terapêutico na cura ou controle do câncer de mama. A iniciativa se apoia nos fundamentos de bioquímica estrutural, química orgânica e proteômica, áreas que permitem investigar em profundidade as estruturas, funções e reatividade química desses biomoléculas.
@@ -53,28 +51,35 @@
 #### 3.1.1. Requisitos Funcionais (RF)
 
 **1. RF01 – Avaliação e comparação de modelos**
+
 &nbsp;&nbsp;&nbsp;&nbsp;O sistema deve fornecer métricas de desempenho (Acurácia, Precisão, Recall, AUC-ROC) e uma matriz de confusão para cada modelo testado, possibilitando a comparação e seleção do melhor classificador.
 
 **2. RF02 – Geração de recomendações**
+
 &nbsp;&nbsp;&nbsp;&nbsp;A partir dos resultados dos modelos, o modelo de IA deve sugerir possíveis combinações de proteínas e aminoácidos com maior potencial terapêutico para o tratamento do câncer de mama.
 
 **3. RF03 – Processamento de dados proteicos**
+
 &nbsp;&nbsp;&nbsp;&nbsp;O sistema deve permitir a entrada de dados de proteínas e aminoácidos, oriundos de bases experimentais ou predições computacionais (e.g., AlphaFold), para posterior análise e correlação com cenários oncológicos.
 
 #### 3.1.2. Requisitos Não Funcionais (RNF)
 
 **RNF01 – Confiabilidade e disponibilidade**
+
 &nbsp;&nbsp;&nbsp;&nbsp;O sistema deve manter registros consistentes dos resultados dos experimentos (logs, pesos dos modelos, parâmetros) e oferecer alta disponibilidade, minimizando o risco de falhas durante as rotinas de treinamento e teste.
 
 ### 3.2. Considerações de Design
 
 **1. Módulo de Treinamento e Validação:**
+
 Rodar as rotinas de Machine Learning.
 
 **2. Módulo de Avaliação e Visualização:**
+
 Gera métricas de desempenho, matrizes de confusão e gráficos comparativos.
 
 **3. Camada de Persistência:**
+
 Armazena parâmetros, pesos de modelos, configurações de folds e dados de logs.
 
 ### 3.3. Stack Tecnológica
