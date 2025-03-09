@@ -15,15 +15,15 @@
 >
 > [Informações Gerais do Projeto](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica)
 >
-> [Especificação Técnica]()
+> [Especificação Técnica](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Especifica%C3%A7%C3%B5es-T%C3%A9cnicas)
 >
-> [Base de Dados]()
+> [Base de Dados](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Base-de-Dados)
 >
-> [Requisitos do Projeto]()
+> [Requisitos do Projeto](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Requisitos-do-Projeto)
 >
-> [Próximos Passos]()
+> [Próximos Passos](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Pr%C3%B3ximos-Passos)
 >
-> [Testes de Software]()
+> [Testes de Software](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Testes-de-Software)
 
 # Resumo
 
