@@ -9,6 +9,22 @@
 
 <br>
 
+> [!NOTE]
+>
+> ## FAQ - Redes Neurais e Proteômica:
+>
+> [Informações Gerais do Projeto](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica)
+>
+> [Especificação Técnica]()
+>
+> [Base de Dados]()
+>
+> [Requisitos do Projeto]()
+>
+> [Próximos Passos]()
+>
+> [Testes de Software]()
+
 # Resumo
 
 &nbsp;&nbsp;&nbsp;&nbsp; O presente trabalho propõe o uso de ferramentas de Inteligência Artificial (IA), em especial redes neurais artificiais, para analisar combinações de proteínas e aminoácidos que possam contribuir para o desenvolvimento de novas estratégias terapêuticas no tratamento do câncer de mama. Fundamentado em bioquímica estrutural, química orgânica, proteômica e oncologia, o projeto explora os recentes avanços no mapeamento das estruturas proteicas, como os proporcionados pela AlphaFold — que, em 2020, utilizando IA, foi capaz de auxiliar na catalogação de pouco mais de 200 milhões de proteínas - Praticamente todo o reino animal -, em contraste às cerca de 150 mil identificadas até 2015 após seis décadas de pesquisa por meio de métodos convencionais. Tendo isso em vista, espera-se utilizar IA para analisar combinações de proteínas, e assim, contribuir para um tratamento mais eficaz, ampliando as perspectivas terapêuticas no combate ao câncer de mama.
