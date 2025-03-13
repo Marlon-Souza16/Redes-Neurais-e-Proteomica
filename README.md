@@ -62,7 +62,6 @@
 - [Dados Treinamento](http://archive.ics.uci.edu/)
 - [Dados Cancer de mama](http://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 - [BRCA1 and BRCA2: different roles in a common pathway of genome protection](https://pmc.ncbi.nlm.nih.gov/articles/PMC4972490/)
-- [BRCA1 e BRCA2 em câncer de mama](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://amb.org.br/wp-content/uploads/2021/08/BRCA1-E-BRCA-2-FINAL-2016.pdf)
 - [Artificial intelligence-based recognition for variant pathogenicity of BRCA1 using AlphaFold2-predicted structures](https://pmc.ncbi.nlm.nih.gov/articles/PMC9800725/)
 
 ## 4. Avaliações de Professores
