@@ -23,7 +23,7 @@
 >
 > [Modelos de IA](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Modelos-de-Intelig%C3%AAncia-Artificial)
 >
-> [BCRA1 e BCRA2](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Genes-BRCA1-e-BRCA2)](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Estudos-Cient%C3%ADficos)
+> [Estudos Cientificos](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Estudos-Cient%C3%ADficos)
 >
 > [Testes de Software](https://github.com/Marlon-Souza16/Redes-Neurais-e-Proteomica/wiki/Testes-de-Software)
 
